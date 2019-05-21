@@ -2,7 +2,7 @@ aiohttp==1.0.5
 APScheduler==3.5.1
 async-timeout==2.0.0
 chardet==3.0.4
-discord.py==0.16.12
+discord.py==1.2.0a
 emoji==0.5.0
 multidict==3.3.2
 pytz==2018.3
