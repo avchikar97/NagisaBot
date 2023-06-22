@@ -43,6 +43,9 @@ bot.on("message", async message => {
     if(cmd === (prefix + 'hello')){
         return message.channel.send("Hello!");
     }
+    else if(cmd === (prefix + '')){
+        
+    }
 });
 
 
